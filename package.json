@@ -1,6 +1,7 @@
 {
   "name": "instructor_411_wk5_day1_mapstatetoprops",
   "version": "0.1.0",
+  "homepage": "https://kd125.github.io/411_wk5_day2_mapdispatchtoprops/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
